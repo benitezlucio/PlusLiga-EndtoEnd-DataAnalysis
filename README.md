@@ -6,7 +6,7 @@ An end-to-end data analytics project exploring the Polish Volleyball League (Plu
 
 The main objective was to analyze team performance throughout the seasons and evaluate how **serve aggressiveness** influences overall performance, match outcomes, and competitive success.
 
-## 📊 Project Workflow
+##  Project Workflow
 
 - Data collection and preparation
 - Data cleaning and transformation
